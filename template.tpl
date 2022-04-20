@@ -17,7 +17,7 @@ ___INFO___
   "categories": [
     "SOCIAL",
     "CHAT"
-  ]
+  ],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
