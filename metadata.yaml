@@ -15,5 +15,5 @@
 homepage: "https://www.nebulae.software"
 documentation: "https://github.com/nebulae-software/hyvor-talk-tag-manager-template/wiki"
 versions:
-  - sha: 666b7b4e0930a60089f3bf513daed9dff50f7978
+  - sha: 7de1b1384649edd268c33b09e62d3b8fbdaa8c6a
     changeNotes: Initial Version
